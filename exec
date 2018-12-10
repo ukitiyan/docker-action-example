@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "{ \"payload\": \"Hello, $1!\" }"
